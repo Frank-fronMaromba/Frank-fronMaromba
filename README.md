@@ -33,11 +33,12 @@
 
 <!-- GIF -->
 <p align="left">
-  <img src= https://github.com/Frank-fronMaromba/Frank-fronMaromba/blob/main/6vIk.gif?raw=true
+  <img align="right" alt="" height="340" src= https://github.com/Frank-fronMaromba/Frank-fronMaromba/blob/main/2Zy8.gif?raw=true width="730">
 </p>
 
-## 🔥 Skills
+ 🔥 Skills
 <!-- Skills: Programming Languages -->
+<h3 align="left">My Stack ~</h3>
   <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -47,7 +48,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt="mysql logo"  />
   </div>
 
-#
+
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
@@ -56,7 +57,7 @@
     <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
   </div>
 
-#
+
   
   <!-- Skills: Libraries -->
   <div style="flex-basis: 48%;">
