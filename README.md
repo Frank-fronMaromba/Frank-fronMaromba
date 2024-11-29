@@ -4,6 +4,8 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
+#
+
 <!-- Presentation -->
 <p>
   Oi 👋, sou o Frank! Um estudante Análise e Desenvolvimento de Sistemas e Análise de Dados e moro no Brasil.
@@ -12,6 +14,8 @@
 
   -🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é, um dia, trabalhar com Análise de Dados.
 </p>
+
+#
 
 <!-- Dropdown -->
 <details>
@@ -40,7 +44,10 @@
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt="mysql logo"  />
   </div>
+
+#
   
   <!-- Skills: Tools & Frameworks -->
   <div style="flex-basis: 48%;">
@@ -48,6 +55,8 @@
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
     <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
   </div>
+
+#
   
   <!-- Skills: Libraries -->
   <div style="flex-basis: 48%;">
@@ -55,3 +64,17 @@
     <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
     <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </div>
+
+#
+<!-- stats -->
+<div
+<a href="https://github.com/Frank-fronMaromba/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mari4souza&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+  </a>
+</div>
+  
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
