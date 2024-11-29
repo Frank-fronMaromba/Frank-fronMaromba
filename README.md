@@ -57,7 +57,9 @@
 <div align="center">
   <h3> GitHub Stats </h3>
   <img src="https://github-readme-stats.vercel.app/api?username=Frank-fronMaromba&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="190" alt="stats graph"  />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=Frank-fronMaromba&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="190" alt="languages graph"  />
+  <a href="https://github.com/Frank-fronMaromba/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Frank-fronMaromba&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="190" alt="languages graph"  />
+  </a>
 </div>
 
 ###
