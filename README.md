@@ -27,6 +27,7 @@
 <!-- Links -->
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/franklintranquilim/profilecard/?igsh=MTNjNHJxMXR6bXhvYw==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frank-rijkaard-163b37254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](Frank52.com@gmail.com)
 
 <!-- GithubStats -->
 
