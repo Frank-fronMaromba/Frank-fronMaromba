@@ -7,12 +7,12 @@
 #
 
 <!-- Presentation -->
-<p>
+<p align="center">
   Oi 👋, sou o Frank! Um estudante Análise e Desenvolvimento de Sistemas e Análise de Dados e moro no Brasil.
 
-  -🌱 Atualmente, estou estudando (ADS) e me especializando em Análise de Dados.
+ <p align="center"> -🌱 Atualmente, estou estudando (ADS) e me especializando em Análise de Dados.
 
-  -🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é, um dia, trabalhar com Análise de Dados.
+ <p align="center"> -🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é, um dia, trabalhar com Análise de Dados.
 </p>
 
 #
@@ -21,8 +21,7 @@
 <details>
   <summary>👨‍💻 Mais sobre mim </summary>
 
-  -Tenho 22 anos e atualmente moro no Brasil. Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou me especializando em Análise de Dados. Tenho experiência com a linguagem Python e estou em busca de desenvolver minhas habilidades e adquirir mais experiências práticas. Estou motivado a aprender, crescer na área de tecnologia e contribuir com soluções criativas para desafios do mercado , além de buscar aprender e seguir em frente.
-  -Gosto de games , sou apaixonado por musculação e esportes em geral , gosto de series e animes , não vivo sem música e amo viajar , conhecer novas culturas e pessoas .
+  Tenho 22 anos e atualmente moro no Brasil. Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou me especializando em Análise de Dados. Tenho experiência com a linguagem Python e estou em busca de desenvolver minhas habilidades e adquirir mais experiências práticas. Estou motivado a aprender, crescer na área de tecnologia e contribuir com soluções criativas para desafios do mercado , além de buscar aprender e seguir em frente. Gosto de games , sou apaixonado por musculação e esportes em geral , gosto de series e animes , não vivo sem música e amo viajar , conhecer novas culturas e pessoas .
 </details>
 
 <!-- Links -->
@@ -33,7 +32,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img src="https://gifer.com/embed/6vIk" width=480 height=355.200 frameBorder="0" allowFullScreen><p><a href="https://gifer.com"></a></p> <alt="6vk.gif" width="480">
+  <img src= https://github.com/Frank-fronMaromba/Frank-fronMaromba/blob/main/6vIk.gif?raw=true
 </p>
 
 ## 🔥 Skills
