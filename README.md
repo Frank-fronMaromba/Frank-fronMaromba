@@ -29,11 +29,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frank-rijkaard-163b37254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](Frank52.com@gmail.com)
 
-<!-- GithubStats -->
+#
 
 <!-- GIF -->
 <p align="left">
-  <img align="right" alt="" height="340" src= https://github.com/Frank-fronMaromba/Frank-fronMaromba/blob/main/6vIk.gif?raw=true width="730">
+  <img align="right" alt="" height="290" src= https://github.com/Frank-fronMaromba/Frank-fronMaromba/blob/main/6vIk.gif?raw=true width="">
 </p>
 
  🔥 Skills
@@ -46,27 +46,19 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt="mysql logo"  />
-  </div>
 
-
-  
-  <!-- Skills: Tools & Frameworks -->
-  <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-  </div>
-
-
-  
-  <!-- Skills: Libraries -->
   <div style="flex-basis: 48%;">
     <h3>Libraries</h3>
     <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
     <img align="center" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </div>
 
-#
+
+
+
+
+
+
 <!-- stats -->
 
 
