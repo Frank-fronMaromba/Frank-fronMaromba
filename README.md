@@ -33,7 +33,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="right" alt="" height="340" src= https://github.com/Frank-fronMaromba/Frank-fronMaromba/blob/main/2Zy8.gif?raw=true width="730">
+  <img align="right" alt="" height="340" src= https://github.com/Frank-fronMaromba/Frank-fronMaromba/blob/main/6vIk.gif?raw=true width="730">
 </p>
 
  🔥 Skills
