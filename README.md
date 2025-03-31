@@ -12,7 +12,7 @@
 
  <p align="center"> -🌱 Atualmente, estou estudando (ADS) e me especializando em Análise de Dados.
 
- <p align="center"> -🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é, um dia, trabalhar com Análise de Dados.
+ <p align="center"> -🔭 Estou em busca da minha primeira oportunidade na área de tecnologia. Meu sonho é, um dia, poder colocar em prática tudo que aprendi no âmbito acadêmico.
 </p>
 
 #
